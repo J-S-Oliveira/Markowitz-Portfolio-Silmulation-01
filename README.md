@@ -29,3 +29,20 @@ Foram escolhidos por serem os principais ativos listado eem bolsa e também por 
   <li> <b>     ITUB4            </b> </li>
   <li> <b>     VALE3            </b> </li>
   <li> <b>     PETR3            </b> </li>
+
+## Movimento Geometrico Browniano AGRO3   
+
+
+## Movimento Geometrico Browniano ABEV3   
+
+
+## Movimento Geometrico Browniano MGLU3    
+
+
+## Movimento Geometrico Browniano ITUB4  
+
+## Movimento Geometrico Browniano VALE3 
+
+
+## Movimento Geometrico Browniano PETR3  
+
