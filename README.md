@@ -3,7 +3,7 @@ Aplicação da Teoria Moderna do Portfolio (TMP), com a identificação da front
 
 # Roteiro
 
- 1.Colete os preços e volumes de um conjunto de ativos durante o período de 10 (dez) anos, pertencentes a no mínimo 5 (cinco) Índices de Segmentos e Setoriais diferentes na B3, e separe os 30 (trinta) ativos mais líquidos;
+ 1.Colete os preços e volumes de um conjunto de ativos durante o período de 10 (dez) anos, pertencentes a no mínimo 5 (cinco) Índices de Segmentos e Setoriais diferentes na B3, e separe os ativos mais líquidos;
 
 2.Construa amostras de treinamento e outras de teste, sendo a primeira com os 3 (três) anos e a segunda com o último ano, e desloque as janelas anualmente (walk forward analysis);
 
@@ -18,3 +18,5 @@ Aplicação da Teoria Moderna do Portfolio (TMP), com a identificação da front
 ## Classificação Setorial | B3
 
 ![Setorial-B3-24-06-2022-_português_](https://user-images.githubusercontent.com/70406366/181828809-89799192-d632-4edb-9970-57c5034dc88e.png)
+
+## Coleta de Preços
