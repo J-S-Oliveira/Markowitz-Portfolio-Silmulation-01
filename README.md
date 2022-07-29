@@ -15,7 +15,7 @@ Aplicação da Teoria Moderna do Portfolio (TMP), com a identificação da front
 
 6.Descreva suas impressores relativas ao processo, baseado em números, e resultados encontrado
 
-## Classificação Setorial | B3
+# Classificação Setorial | B3
 
 ![Setorial-B3-24-06-2022-_português_](https://user-images.githubusercontent.com/70406366/181828809-89799192-d632-4edb-9970-57c5034dc88e.png)
 
@@ -45,4 +45,11 @@ Foram escolhidos por serem os principais ativos listado eem bolsa e também por 
 
 
 ## Movimento Geometrico Browniano PETR3  
+
+# Matriz de Covariância
+
+#  Portfolio Markowitz Maior Sharpe
+
+
+
 
