@@ -14,3 +14,5 @@ Aplicação da Teoria Moderna do Portfolio (TMP), com a identificação da front
 5.Verifique o resultado da alocação de capital com Markowitz nos ativos separados, na fase de treinamento, na amostra de teste que representa o último ano da aquisição e compare com o índice Bovespa;
 
 6.Descreva suas impressores relativas ao processo, baseado em números, e resultados encontrado
+
+## Classificação Setorial | B3
