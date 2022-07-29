@@ -23,3 +23,9 @@ Aplicação da Teoria Moderna do Portfolio (TMP), com a identificação da front
 
 Foram escolhidos por serem os principais ativos listado eem bolsa e também por serem os mais apresentarem liquidez ,e serem frequentemente recomendados por analistas:
 
+  <li> <b>     AGRO3            </b> </li>
+  <li> <b>     ABEV3            </b> </li>
+  <li> <b>     MGLU3            </b> </li>
+  <li> <b>     ITUB4            </b> </li>
+  <li> <b>     VALE3            </b> </li>
+  <li> <b>     PETR3            </b> </li>
