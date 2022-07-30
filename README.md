@@ -19,7 +19,7 @@ Aplicação da Teoria Moderna do Portfolio (TMP), com a identificação da front
 
 ![Setorial-B3-24-06-2022-_português_](https://user-images.githubusercontent.com/70406366/181828809-89799192-d632-4edb-9970-57c5034dc88e.png)
 
-## Escolha dos ativos
+# Clusterização
 
 Foram escolhidos por serem os principais ativos listado eem bolsa e também por serem os mais apresentarem liquidez ,e serem frequentemente recomendados por analistas:
 
@@ -30,25 +30,30 @@ Foram escolhidos por serem os principais ativos listado eem bolsa e também por 
   <li> <b>     VALE3            </b> </li>
   <li> <b>     PETR3            </b> </li>
 
-## Movimento Geometrico Browniano AGRO3   
+### Movimento Geometrico Browniano AGRO3   
 
 
-## Movimento Geometrico Browniano ABEV3   
+### Movimento Geometrico Browniano ABEV3   
 
 
-## Movimento Geometrico Browniano MGLU3    
+### Movimento Geometrico Browniano MGLU3    
 
 
-## Movimento Geometrico Browniano ITUB4  
+### Movimento Geometrico Browniano ITUB4  
 
-## Movimento Geometrico Browniano VALE3 
+### Movimento Geometrico Browniano VALE3 
 
 
-## Movimento Geometrico Browniano PETR3  
+### Movimento Geometrico Browniano PETR3  
 
-# Matriz de Covariância
+# Matriz de Covariância e Correlação 
 
-#  Portfolio Markowitz Maior Sharpe
+# Método K-means
+
+# Portfolio Markowitz
+
+# Testes e Resultados
+
 
 
 
